@@ -22,5 +22,14 @@ Expert Team: Our team consists of experienced professionals with diverse experti
 Innovation: We stay ahead of industry trends to provide innovative solutions.
 Client-Centric Approach: We prioritize our clients’ needs and deliver customized solutions.
 Quality Assurance: We adhere to strict quality standards to deliver the best results.
+
 🔗 Contact Us:
+
 Ready to take your business to the next level? Visit our website Nexa Innovate or contact us at info@nexainnovate.com for a free consultation.
+
+
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#00aaff" />
+  <path d="M20,80 L80,20" stroke="#fff" stroke-width="10" />
+  <path d="M80,80 L20,20" stroke="#fff" stroke-width="10" />
+</svg>
