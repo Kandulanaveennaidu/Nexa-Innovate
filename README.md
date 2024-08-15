@@ -1,6 +1,7 @@
 Nexa Innovate: Revolutionizing Digital Solutions
 
 🚀 About Us:
+
 At Nexa Innovate, we specialize in creating cutting-edge digital solutions tailored to meet the unique needs of our clients. With a team of seasoned professionals, we offer a comprehensive range of services, from web development and design to mobile applications and digital marketing. Our mission is to empower businesses by leveraging the latest technologies to drive innovation and growth.
 
 🌟 Our Services:
